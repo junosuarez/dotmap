@@ -1,0 +1,21 @@
+{
+  "name": "dotmap",
+  "version": "0.1.0",
+  "description": "easy dot-notation accessor functions",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test"
+  },
+  "repository": "git@github.com:AgileDiagnosis/dotmap.git",
+  "keywords": [
+    "dot",
+    "accessor",
+    "map"
+  ],
+  "author": "Agile Diagnosis <hello@agilediagnosis.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
